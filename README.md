@@ -21,5 +21,3 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostGreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=badge&logo=mongodb)
-
-<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/944ebf05-5e68-48fd-830e-bafa74aeae61.gif" alt="pixel-art-readme-gifs" width="100%">
