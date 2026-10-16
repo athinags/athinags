@@ -1,7 +1,5 @@
 # Hi, I'm Áthina :)
 <div>
-  <img width="128" height="128" align="right" 
-       src="https://github.com/user-attachments/assets/b3a98611-2a50-408d-9404-2096cea3ad7e" />
   <p>🐍 Python -> Web scraping & Databases</p>
   <p>🔭 Working with Jetpack Compose</p>
   <p>☁️ Currently taking AWS Academy Cloud Foundations</p>
